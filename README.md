@@ -12,7 +12,7 @@
 - ❓ Ask me about anything related to MERN stack, .NET Core, Angular and related technologies  
   
 
-- ⚡ Fun fact: Sometimes I sing very good  
+- ⚡ Fun fact: The original name for JavaScript was "Mocha" before it was renamed twice!  
   
 
 <br/>  
